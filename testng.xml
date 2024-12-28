@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BrowserStack Suite" parallel="tests" threads="5">
+    <test name="Capability 1">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="browserVersion" value="130.0"/>
+        <parameter name="os" value="Windows"/>
+        <parameter name="osVersion" value="11"/>
+        <classes>
+            <class name="org.sdet.tests.CrossBrowserTest"/>
+        </classes>
+    </test>
+    <test name="Capability 2">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="browserVersion" value="130.0"/>
+        <parameter name="os" value="OS X"/>
+        <parameter name="osVersion" value="Monterey"/>
+        <classes>
+            <class name="org.sdet.tests.CrossBrowserTest"/>
+        </classes>
+    </test>
+    <test name="Capability 3">
+        <parameter name="browser" value="Firefox"/>
+        <parameter name="browserVersion" value="132.0"/>
+        <parameter name="os" value="OS X"/>
+        <parameter name="osVersion" value="Sonoma"/>
+        <classes>
+            <class name="org.sdet.tests.CrossBrowserTest"/>
+        </classes>
+    </test>
+    <test name="Capability 4">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="browserVersion" value="130.0"/>
+        <parameter name="os" value="Windows"/>
+        <parameter name="osVersion" value="10"/>
+        <classes>
+            <class name="org.sdet.tests.CrossBrowserTest"/>
+        </classes>
+    </test>
+    <test name="Capability 5">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="osVersion" value="11.0"/>
+        <parameter name="deviceName" value="Xiaomi Redmi Note 11"/>
+        <classes>
+            <class name="org.sdet.tests.CrossBrowserTest"/>
+        </classes>
+    </test>
+</suite>

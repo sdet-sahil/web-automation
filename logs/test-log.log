@@ -1,0 +1,240 @@
+2024-12-28 20:49:12 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Navigating to home page and accepting cookies...
+2024-12-28 20:49:13 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Navigating to home page and accepting cookies...
+2024-12-28 20:49:15 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Navigating to home page and accepting cookies...
+2024-12-28 20:49:17 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Navigating to home page and accepting cookies...
+2024-12-28 20:49:18 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Language attribute: es-ES
+2024-12-28 20:49:18 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Successfully validated website's content is in Spanish!
+2024-12-28 20:49:18 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Navigate to the Opinion section of the website...
+2024-12-28 20:49:21 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Language attribute: es-ES
+2024-12-28 20:49:21 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Successfully validated website's content is in Spanish!
+2024-12-28 20:49:21 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Navigate to the Opinion section of the website...
+2024-12-28 20:49:24 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Navigating to home page and accepting cookies...
+2024-12-28 20:49:30 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Language attribute: es-ES
+2024-12-28 20:49:30 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Successfully validated website's content is in Spanish!
+2024-12-28 20:49:30 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Navigate to the Opinion section of the website...
+2024-12-28 20:49:30 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - *******Article 0 ********
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Feijóo y la confusión
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - El líder popular recurre a la hipérbole en sus críticas al Gobierno y obvia las enormes competencias autonómicas que dependen de su partido
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - No image found for article 0
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - *******Article 1 ********
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - México mira al norte
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - El regreso de Trump a la Casa Blanca no puede ir acompañado de amenazas hacia su vecino del sur
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - No image found for article 1
+2024-12-28 20:49:31 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - *******Article 2 ********
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Las mentiras del año nuevo
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Toca volver a engañarme y pensar que puedo ser otra a partir del 1 de enero
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - No image found for article 2
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - *******Article 3 ********
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Barco lleno, barco vacío
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:32 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - El espacio más natural de la fraternidad es la familia. No la elegimos, pero es que no elegimos casi nada de lo que más nos define
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/PR2VRKVXIJGSFCDJOXJ7U6FTKQ.jpg?auth=057b7db1b2dc5036b590f03a8b4d59e28e76a39c8e57322e4ed319b8dc8fefde&width=414
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - *******Article 4 ********
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - ‘Las tres fronteras’
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:33 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - Este proyecto fotográfico documenta los límites entre Malí, Níger y Burkina Faso, epicentro del conflicto que devasta el Sahel
+2024-12-28 20:49:34 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:34 [TestNG-tests-3] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/MENB7YWVLREHXBY4LBVNWZIIR4.jpg?auth=ac099e45937dabab4a74335d0aff09395f789fb53fed71c0b876f0ca8f8fc872&width=414&height=233&smart=true
+2024-12-28 20:49:34 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Language attribute: es-ES
+2024-12-28 20:49:34 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Successfully validated website's content is in Spanish!
+2024-12-28 20:49:34 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Navigate to the Opinion section of the website...
+2024-12-28 20:49:37 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:37 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Feijóo and confusion
+2024-12-28 20:49:39 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:39 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Mexico looks north
+2024-12-28 20:49:39 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - *******Article 0 ********
+2024-12-28 20:49:40 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:40 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - New Year's lies
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Feijóo y la confusión
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - El líder popular recurre a la hipérbole en sus críticas al Gobierno y obvia las enormes competencias autonómicas que dependen de su partido
+2024-12-28 20:49:40 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:40 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Full ship, empty boat
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - No image found for article 0
+2024-12-28 20:49:40 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - *******Article 1 ********
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - México mira al norte
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - El regreso de Trump a la Casa Blanca no puede ir acompañado de amenazas hacia su vecino del sur
+2024-12-28 20:49:41 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:41 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - ‘The three borders’
+2024-12-28 20:49:41 [TestNG-tests-3] INFO  org.sdet.utils.HeaderAnalyzer - Started Analyzing Translated Headers...
+2024-12-28 20:49:41 [TestNG-tests-3] INFO  org.sdet.tests.DesktopTest - Workflow completed successfully!
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - No image found for article 1
+2024-12-28 20:49:41 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - *******Article 2 ********
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Las mentiras del año nuevo
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Toca volver a engañarme y pensar que puedo ser otra a partir del 1 de enero
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - No image found for article 2
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - *******Article 3 ********
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Barco lleno, barco vacío
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:43 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - El espacio más natural de la fraternidad es la familia. No la elegimos, pero es que no elegimos casi nada de lo que más nos define
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/PR2VRKVXIJGSFCDJOXJ7U6FTKQ.jpg?auth=057b7db1b2dc5036b590f03a8b4d59e28e76a39c8e57322e4ed319b8dc8fefde&width=414
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - *******Article 4 ********
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - ‘Las tres fronteras’
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:44 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - Este proyecto fotográfico documenta los límites entre Malí, Níger y Burkina Faso, epicentro del conflicto que devasta el Sahel
+2024-12-28 20:49:45 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:45 [TestNG-tests-4] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/MENB7YWVLREHXBY4LBVNWZIIR4.jpg?auth=ac099e45937dabab4a74335d0aff09395f789fb53fed71c0b876f0ca8f8fc872&width=414&height=233&smart=true
+2024-12-28 20:49:46 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Language attribute: es-ES
+2024-12-28 20:49:46 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Successfully validated website's content is in Spanish!
+2024-12-28 20:49:46 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Navigate to the Opinion section of the website...
+2024-12-28 20:49:47 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:47 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Feijóo and confusion
+2024-12-28 20:49:47 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:47 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Mexico looks north
+2024-12-28 20:49:47 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - *******Article 0 ********
+2024-12-28 20:49:48 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:48 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - New Year's lies
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Feijóo y la confusión
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - El líder popular recurre a la hipérbole en sus críticas al Gobierno y obvia las enormes competencias autonómicas que dependen de su partido
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Full ship, empty boat
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - No image found for article 0
+2024-12-28 20:49:49 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - *******Article 1 ********
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - ‘The three borders’
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.utils.HeaderAnalyzer - Started Analyzing Translated Headers...
+2024-12-28 20:49:49 [TestNG-tests-4] INFO  org.sdet.tests.DesktopTest - Workflow completed successfully!
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - México mira al norte
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - El regreso de Trump a la Casa Blanca no puede ir acompañado de amenazas hacia su vecino del sur
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - No image found for article 1
+2024-12-28 20:49:50 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - *******Article 2 ********
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Las mentiras del año nuevo
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Toca volver a engañarme y pensar que puedo ser otra a partir del 1 de enero
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - No image found for article 2
+2024-12-28 20:49:51 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - *******Article 3 ********
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Barco lleno, barco vacío
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - El espacio más natural de la fraternidad es la familia. No la elegimos, pero es que no elegimos casi nada de lo que más nos define
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/PR2VRKVXIJGSFCDJOXJ7U6FTKQ.jpg?auth=057b7db1b2dc5036b590f03a8b4d59e28e76a39c8e57322e4ed319b8dc8fefde&width=414
+2024-12-28 20:49:52 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - *******Article 4 ********
+2024-12-28 20:49:53 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - *******Article 0 ********
+2024-12-28 20:49:53 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:53 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - ‘Las tres fronteras’
+2024-12-28 20:49:53 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:53 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - Este proyecto fotográfico documenta los límites entre Malí, Níger y Burkina Faso, epicentro del conflicto que devasta el Sahel
+2024-12-28 20:49:54 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:54 [TestNG-tests-5] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/MENB7YWVLREHXBY4LBVNWZIIR4.jpg?auth=ac099e45937dabab4a74335d0aff09395f789fb53fed71c0b876f0ca8f8fc872&width=414&height=233&smart=true
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Feijóo y la confusión
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - El líder popular recurre a la hipérbole en sus críticas al Gobierno y obvia las enormes competencias autonómicas que dependen de su partido
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - No image found for article 0
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - *******Article 1 ********
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - México mira al norte
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:55 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - El regreso de Trump a la Casa Blanca no puede ir acompañado de amenazas hacia su vecino del sur
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - No image found for article 1
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - *******Article 2 ********
+2024-12-28 20:49:56 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:56 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Feijóo and confusion
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Las mentiras del año nuevo
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Toca volver a engañarme y pensar que puedo ser otra a partir del 1 de enero
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - No image found for article 2
+2024-12-28 20:49:56 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - *******Article 3 ********
+2024-12-28 20:49:56 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:56 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Mexico looks north
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Barco lleno, barco vacío
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - El espacio más natural de la fraternidad es la familia. No la elegimos, pero es que no elegimos casi nada de lo que más nos define
+2024-12-28 20:49:57 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:57 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - New Year's lies
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/PR2VRKVXIJGSFCDJOXJ7U6FTKQ.jpg?auth=057b7db1b2dc5036b590f03a8b4d59e28e76a39c8e57322e4ed319b8dc8fefde&width=414
+2024-12-28 20:49:57 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - *******Article 4 ********
+2024-12-28 20:49:58 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:58 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Full ship, empty boat
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - ‘Las tres fronteras’
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - Este proyecto fotográfico documenta los límites entre Malí, Níger y Burkina Faso, epicentro del conflicto que devasta el Sahel
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:49:58 [TestNG-tests-1] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/MENB7YWVLREHXBY4LBVNWZIIR4.jpg?auth=ac099e45937dabab4a74335d0aff09395f789fb53fed71c0b876f0ca8f8fc872&width=414&height=233&smart=true
+2024-12-28 20:49:59 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:49:59 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - ‘The three borders’
+2024-12-28 20:49:59 [TestNG-tests-5] INFO  org.sdet.utils.HeaderAnalyzer - Started Analyzing Translated Headers...
+2024-12-28 20:49:59 [TestNG-tests-5] INFO  org.sdet.tests.DesktopTest - Workflow completed successfully!
+2024-12-28 20:50:01 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:50:01 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Feijóo and confusion
+2024-12-28 20:50:02 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:50:02 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Mexico looks north
+2024-12-28 20:50:02 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:50:02 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - New Year's lies
+2024-12-28 20:50:03 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:50:03 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Full ship, empty boat
+2024-12-28 20:50:04 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:50:04 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - ‘The three borders’
+2024-12-28 20:50:04 [TestNG-tests-1] INFO  org.sdet.utils.HeaderAnalyzer - Started Analyzing Translated Headers...
+2024-12-28 20:50:04 [TestNG-tests-1] INFO  org.sdet.tests.DesktopTest - Workflow completed successfully!
+2024-12-28 20:51:50 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - *******Article 0 ********
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Feijóo y la confusión
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - El líder popular recurre a la hipérbole en sus críticas al Gobierno y obvia las enormes competencias autonómicas que dependen de su partido
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - No image found for article 0
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - *******Article 1 ********
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - México mira al norte
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - El regreso de Trump a la Casa Blanca no puede ir acompañado de amenazas hacia su vecino del sur
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - No image found for article 1
+2024-12-28 20:51:51 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - *******Article 2 ********
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Las mentiras del año nuevo
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Toca volver a engañarme y pensar que puedo ser otra a partir del 1 de enero
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - No image found for article 2
+2024-12-28 20:51:52 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - *******Article 3 ********
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Barco lleno, barco vacío
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - El espacio más natural de la fraternidad es la familia. No la elegimos, pero es que no elegimos casi nada de lo que más nos define
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/PR2VRKVXIJGSFCDJOXJ7U6FTKQ.jpg?auth=057b7db1b2dc5036b590f03a8b4d59e28e76a39c8e57322e4ed319b8dc8fefde&width=414
+2024-12-28 20:51:53 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - *******Article 4 ********
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Header in spanish
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - ‘Las tres fronteras’
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Content in spanish
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - Este proyecto fotográfico documenta los límites entre Malí, Níger y Burkina Faso, epicentro del conflicto que devasta el Sahel
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - ************Image URL************
+2024-12-28 20:51:54 [TestNG-tests-2] INFO  org.sdet.utils.ArticleScraper - https://imagenes.elpais.com/resizer/v2/MENB7YWVLREHXBY4LBVNWZIIR4.jpg?auth=ac099e45937dabab4a74335d0aff09395f789fb53fed71c0b876f0ca8f8fc872&width=414&height=233&smart=true
+2024-12-28 20:51:56 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:51:56 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Feijóo and confusion
+2024-12-28 20:51:57 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:51:57 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Mexico looks north
+2024-12-28 20:51:57 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:51:57 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - New Year's lies
+2024-12-28 20:51:58 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:51:58 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Full ship, empty boat
+2024-12-28 20:51:59 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Article 1 header in english:
+2024-12-28 20:51:59 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - ‘The three borders’
+2024-12-28 20:51:59 [TestNG-tests-2] INFO  org.sdet.utils.HeaderAnalyzer - Started Analyzing Translated Headers...
+2024-12-28 20:51:59 [TestNG-tests-2] INFO  org.sdet.tests.DesktopTest - Workflow completed successfully!
