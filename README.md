@@ -27,4 +27,5 @@
    * Step 4: Find & print repeated words in translated Headers
  
 ## Command to run tests
-   * mvn test -DsuiteXmlFile=testng.xml
+   * update browserStackUserName,browserStackAccessKey & translateApiKey in config.properties file
+   * run command: mvn test -DsuiteXmlFile=testng.xml
