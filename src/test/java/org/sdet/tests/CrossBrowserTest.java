@@ -34,7 +34,7 @@ public class CrossBrowserTest {
         // Set capabilities
         MutableCapabilities capabilities = new MutableCapabilities();
         capabilities.setCapability("browserName", browser);
-        capabilities.setCapability("bstack:options", getBrowserStackOptions(browser, browserVersion,os, osVersion,deviceName));
+        capabilities.setCapability("bstack:options", getBrowserStackOptions(browserVersion,os, osVersion,deviceName));
 
 
         // Create Remote WebDriver URL for BrowserStack
@@ -106,9 +106,9 @@ public class CrossBrowserTest {
         agreeButton.click();
     }
     
-    private static HashMap<String, Object> getBrowserStackOptions(String browser, @Optional String browserVersion, @Optional String os, String osVersion, @Optional String deviceName){
+    private static HashMap<String, Object> getBrowserStackOptions(@Optional String browserVersion, @Optional String os, String osVersion, @Optional String deviceName){
         HashMap<String, Object> options = new HashMap<>();
-        options.put("buildName", "Assignment: Round 2");
+        options.put("buildName", "Test git code");
         if(os != null) {
             options.put("os", os);
             options.put("browserVersion", browserVersion);

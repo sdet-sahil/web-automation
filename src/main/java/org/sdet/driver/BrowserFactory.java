@@ -11,17 +11,14 @@ import java.net.URL;
 
 public class BrowserFactory {
 
-    public WebDriver createDriver(BrowserType browser, String environment) throws Exception {
+    public WebDriver createDriver(BrowserType browser, String environment, MutableCapabilities capabilities) throws Exception {
         WebDriver driver = null;
 
         // Local WebDriver setup
         if (environment.equalsIgnoreCase("local")) {
             driver = browser.createDriver();
         }
-        // Cloud WebDriver setup (BrowserStack or Sauce Labs)
-        else if (environment.equalsIgnoreCase("cloud")) {
-            driver = createCloudDriver(browser);
-        } else {
+        else {
             throw new IllegalArgumentException("Unsupported environment: " + environment);
         }
 
