@@ -28,4 +28,6 @@
  
 ## Command to run tests
    * update browserStackUserName,browserStackAccessKey & translateApiKey in config.properties file
-   * run command: mvn test -DsuiteXmlFile=testng.xml
+   * run tests by right clicking testng.xml file and select run testng.xml
+<img width="448" alt="Screenshot 2024-12-29 at 6 22 34 PM" src="https://github.com/user-attachments/assets/e89dbf8c-9981-4864-b66a-8bdeab228e37" />
+
